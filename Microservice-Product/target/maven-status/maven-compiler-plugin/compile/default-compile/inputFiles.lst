@@ -1,0 +1,10 @@
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\controller\ProductController.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\dto\ProductDTO.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\entity\Products.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\exception\ErrorDetails.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\exception\GlobalExceptionHandler.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\exception\ResourceNotFoundException.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\repository\ProductRepository.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\service\IProductService.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\service\ProductService.java
+C:\Windows\System32\config\systemprofile\springDataJPA-workspace\Microservice-Product\src\main\java\com\cg\SpringBootRestApplication.java
